@@ -1,38 +1,491 @@
-.App {
+@font-face {
+  font-family: "Roboto";
+  src: url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active{
+  color:#e8e8e8;
+  text-decoration:none; 
+}
+
+.landing {
+  background-image: url("../src/assets/images/landing_bg.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.overlay {
+  background-color: rgba(26, 26, 26, 0.8);
+  position: absolute;
+  top: 0; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.title-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #e8e8e8;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title {
+  font-size: 2.5em;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.info {
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 0.8em;
+  font-weight: 100;
+  margin-bottom: 10%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.info-text {
+  font-weight: 100;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: row;
+}
+
+/* TODO:ADD BUTTON ANIMATION */
+.btn {
+  height: 50px;
+  width: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 15px;
+  background-color: transparent;
+  border: #e8e8e8 2px solid;
+  border-radius: 5px;
+  color: #e8e8e8;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #E84F45;
+  border: #E84F45 2px solid;
+}
+
+.social-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.social {
+  margin: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.social:hover{
+  color: #E84F45;
+}
+
+.separator {
+  width: 50%;
+  border: #E84F45 2px solid;
+}
+
+/* MENU CSS */
+.heading-container {
+  color: #E84F45;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 3em;
+}
+
+.heading-container h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.heading-container p {
+  font-size: 0.3em;
+}
+
+.hours {
+  margin-top: 10px;
+  margin-left: 2em;
+  margin-right: 2em;
+  width: 50%;
+}
+
+.hour-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.option-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.option-list {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.option {
+  padding: 7px;
+  margin: 10px;
+  background-color: transparent;
+  border: black 2px solid;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.list-container {
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+  width: 80%;
+}
+
+.extra-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.9em;
+  color: #E84F45
+}
+
+.spicy {
+  color: #E84F45;
+}
+
+.list-separator {
+  width: 100%;
+  border: #E84F45 2px solid;
+}
+
+.option:hover {
+  background-color: #E84F45;
+  border: #E84F45 2px solid;
+  color: #e8e8e8;
+}
+
+.list-header {
+  font-size: 2.5em;
+  color: #E84F45;
+  margin-bottom: 5px;
+
+}
+
+/* NAV CSS */
+.header {
+  display: flex;
+  z-index: 1;
+}
+
+.header-list {
+  margin-left: auto; 
+  margin-right: 0;
+}
+
+.header-list a {
+  font-weight: bold;
+  color: rgb(15, 15, 15);
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
+
+.header-list .btn {
+  font-weight: bold;
+  background-color: #E84F45;
+  width: 150px;
+}
+
+.selected {
+  color: #E84F45 !important;
+}
+
+.bars {
+  margin-top: 20px;
+  font-size: 2em;
+}
+
+.sidenav {
+  height: 100%; /* 100% Full-height */
+  width: 150px; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: rgba(26, 26, 26, 0.9);
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+  display: flex;
+  flex-direction: column;
+}
+
+.sidenav-header {
+  color: #e8e8e8;
+  font-size: 1.5em;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+.sidenav-line {
+  border: #e8e8e8 1px solid;
+}
+.close-icon {
+  margin-top: 2px;
+  float: right;
+}
+
+.sidenav a {
+  margin-top: 10px;
+  font-weight: bold;
+  color: #e8e8e8;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.header-list a:hover {
+  color: rgb(112, 112, 112);
+}
+
+.sidenav a:hover {
+  color: rgb(112, 112, 112);
+}
+
+.menu-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 0.5em;
+  margin-left: 2em;
+  margin-right: 2em;
 }
 
-.App-link {
-  color: #61dafb;
+.menu-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.5em;
+  margin-left: 2em;
+  margin-right: 2em;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.menu-item {
+  margin-bottom: 1em;
+  width: 90%;
+}
+
+.menu-item h1 {
+  /* margin-bottom: 0; */
+}
+
+.menu-item p {
+  /* margin-top: 0; */
+}
+
+.menu-header {
+  display: flex;
+  width: 100%;
+}
+
+.cost {
+  float: right;
+}
+
+.time {
+  float: right;
+}
+
+.each {
+  width: 5vw
+}
+
+.name {
+  font-weight: bold;
+}
+
+.name-container {
+  width: 80%
+}
+
+.desc {
+  font-size: 0.85em;
+}
+
+.active {
+  background-color: #E84F45 !important;
+  border: #E84F45 2px solid !important;
+  color: #e8e8e8 !important;
+}
+
+.footer {
+  background-color: #E84F45;
+  color: #e8e8ee;
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 0.7em;
+  min-height: calc(100vh-60px);
+}
+
+.footer-social {
+  margin: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.footer-social:hover {
+  color: black;
+}
+
+.location-header {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 0.6em;
+  font-weight: 500;
+  color: black;
+  text-align: center;
+}
+
+.location-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.list-container-location {
+  margin-left: 2.5em;
+  margin-right: 2.5em;
+  width: 50%;
+  font-size: 12px;
+}
+
+.time-section {
+  margin-bottom: 10px;
+}
+
+.delivery-section {
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.location {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.menu {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.map {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5em;
+}
+
+@media (max-width: 599px) {
+  .location-info {
+    display: flex;
+    flex-direction: column;
   }
-  to {
-    transform: rotate(360deg);
+
+  .list-container-location {
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+    width: calc(100% - 5em);
   }
+
+  .menu-container {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .menu-item-container {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .location {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin-left: 2em;
+    margin-right: 2em;
+    /* justify-content: center; */
+    /* align-items: center; */
+  }
+
+  .menu {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin-left: 2em;
+    margin-right: 2em;
+    /* justify-content: center; */
+    /* align-items: center; */
+  }
+
+  .hours {
+    margin-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+  }
+
+  .option:hover {
+    background-color: transparent;
+    border: black 2px solid;
+    color: black
+  }
+
+  .each {
+    margin-left: 1em;
+    margin-right: 1em;
+    width: 15vw;
+  }
+ }
+
+ @media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }

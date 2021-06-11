@@ -1,0 +1,1058 @@
+{
+    "Appetizers":[
+       {
+          "name":"Egg Roll",
+          "each":["(each)"],
+          "price":"1.75",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Pork Spring Roll",
+          "each":["(each)"],
+          "price":"1.85",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Vegetable Spring Roll",
+          "each":["(each)"],
+          "price":"1.85",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Pan Fried or Steamed Pork Dumpling",
+          "each":["(6 pcs)"],
+          "price":"5.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Crispy Fried Wonton",
+          "each":["(8 pcs)"],
+          "price":"3.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"BBQ Pork",
+          "each":"",
+          "price":"6.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Chicken Wings",
+          "each":["(6 pcs)", "(12 pcs)"],
+          "price":[6.50,11.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Spicy Deep Fried Chicken Wings",
+          "each":["(12 pcs)"],
+          "price":"12.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"French Fries with Gravy",
+          "each":"",
+          "price":"4.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Soup":[
+       {
+          "name":"Wonton Soup",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[2.50,4.50,7.95,10.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Egg Drop Soup",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[2.50,4.50,7.95,10.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Mixed Vegetable Soup",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[2.50,4.50,7.95,10.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken Noodle or Rice Soup",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[2.50,4.50,7.95,10.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Hot & Sour Soup",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[3.25,5.95,9.50,12.95],
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Minced Chicken Sweet Corn Soup",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[3.25,5.95,9.50,12.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Seafood with Tofu Soup",
+          "each":["S.", "M.", "L."],
+          "price":[10.95,13.95,16.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Crab Meat & Fish Maw Soup",
+          "each":["S.", "M.", "L."],
+          "price":[11.95,16.95,21.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Vegetarian Hot & Sour Soup",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[2.95,5.50,9.00,12.00],
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Seafood":[
+       {
+          "name":"Lobster with Ginger & Onion",
+          "each":"",
+          "price":"Seasonal",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Squid with Spicy Pepper Salt",
+          "each":"",
+          "price":"14.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Seafood with Spicy Pepper Salt",
+          "each":"",
+          "price":"16.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Shrimp with Spicy Pepper Salt",
+          "each":"",
+          "price":"15.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp with Mixed Vegetables",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Seafood with Mixed Vegetables",
+          "each":"",
+          "price":"13.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp & Chicken in Bird's Nest",
+          "each":"",
+          "price":"14.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Mixed Seafood in Bird's Nest",
+          "each":"",
+          "price":"16.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp or Scallops in Bird's Nest",
+          "each":"",
+          "price":"17.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Szechuan Shrimp",
+          "each":"",
+          "price":"14.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Szechuan Scallops",
+          "each":"",
+          "price":"17.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Kung Bo Shrimp",
+          "each":"",
+          "price":"14.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp in Lobster Sauce",
+          "each":"",
+          "price":"14.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp & Vegetables with Cashew Nuts",
+          "each":"",
+          "price":"14.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp with Pea Pods",
+          "each":"",
+          "price":"14.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Stir Fried Sweet & Sour Pineapple Shrimp",
+          "each":"",
+          "price":"14.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp in Curry Sauce",
+          "each":"",
+          "price":"14.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Beef":[
+       {
+          "name":"Beef with Satay Sauce",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Szechuan Beef",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Garlic Sauce",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Hunan Beef",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef in Curry Sauce",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Mixed Vegetables",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Ginger & Onion",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Broccoli",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Pea Pods",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Chinese Greens",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Green Pepper",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Crispy Beef",
+          "each":"",
+          "price":"13.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Poultry":[
+       {
+          "name":"Kung Bo Chicken",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken with Garlic Sauce",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken in Curry Sauce",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"General Taou00e2u20acu2122s Chicken",
+          "each":"",
+          "price":"12.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Szechuan Chicken",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Diced Chicken & Vegetables with Cashew Nuts",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken with Mixed Vegetables",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Lemon Chicken",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Chicken with Spicy Pepper Salt",
+          "each":"",
+          "price":"13.5",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken Soo Gai",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Moo Goo Guy Pan",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Sweet & Sour Pineapple Chicken",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Chicken Cantonese Style",
+          "each":["Half", "Whole"],
+          "price":[11.95,22.95],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Pork":[
+       {
+          "name":"Pork Chop with Sweet & Sour Sauce",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Pork Chop with Spicy Pepper Salt",
+          "each":"",
+          "price":"12.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Honey & Garlic Spareribs",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Sizzling Plate":[
+       {
+          "name":"Beef Tenderloin with Chef's Sauce",
+          "each":"",
+          "price":"13.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Fish Fillet with Black Bean Sauce",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Deep Fried Shrimp with Lemon Sauce",
+          "each":"",
+          "price":"15.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp with Black Bean Sauce",
+          "each":"",
+          "price":"14.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Seafood with Black Bean Sauce",
+          "each":"",
+          "price":"15.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef or Chicken with Black Bean Sauce",
+          "each":"",
+          "price":"12.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef with Black Pepper Sauce",
+          "each":"",
+          "price":"12.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Tofu & Vegetables":[
+       {
+          "name":"Tofu with Mixed Vegetables",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Ma Po Tofu",
+          "each":"",
+          "price":"10.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Mixed Vegetables with Garlic Sauce",
+          "each":"",
+          "price":"9.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Eggplant with Garlic Sauce",
+          "each":"",
+          "price":"10.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Green Beans with Black Bean Sauce",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Green Beans with Spicy Pepper Salt",
+          "each":"",
+          "price":"10.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Sauteed Chinese Broccoli",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Seasonal Mixed Vegetables",
+          "each":"",
+          "price":"9.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Pan Fried Noodles / Lo-Mein (Soft Noodles)":[
+       {
+          "name":"Mixed Seafood",
+          "each":"",
+          "price":"13.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef or Chicken",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"BBQ Pork",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Cantonese Style",
+          "each":"",
+          "price":"13.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Mixed Vegetables",
+          "each":"",
+          "price":"10.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Special Noodles":[
+       {
+          "name":"Fried Shanghai Style Noodles",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Fried Singapore Noodles",
+          "each":"",
+          "price":"11.95",
+          "spicy":"spicy",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Fried Amoy Style Vermicelli",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Rice Noodles with Beef in Black Bean Sauce",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Rice Noodles with Beef in Soy Sauce",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Bean Sprout Noodle",
+          "each":"",
+          "price":"10.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Fried Rice":[
+       {
+          "name":"House Special",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken",
+          "each":"",
+          "price":"9.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef",
+          "each":"",
+          "price":"9.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"BBQ Pork",
+          "each":"",
+          "price":"9.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Mushroom",
+          "each":"",
+          "price":"8.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Vegetables",
+          "each":"",
+          "price":"8.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Yang Chow",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Steamed Rice",
+          "each":["Bowl", "S.", "M.", "L."],
+          "price":[1.50,3.00,3.50,5.00],
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Chop Suey":[
+       {
+          "name":"Mushroom",
+          "each":"",
+          "price":"8.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Vegetable",
+          "each":"",
+          "price":"8.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"BBQ Pork",
+          "each":"",
+          "price":"9.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken",
+          "each":"",
+          "price":"9.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef",
+          "each":"",
+          "price":"9.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"House Special",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Dry Noodles",
+          "each":"",
+          "price":"0.75",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Sweet & Sour":[
+       {
+          "name":"Chicken Balls",
+          "each":"",
+          "price":"10.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Sweet & Sour Breaded Shrimp",
+          "each":"",
+          "price":"12.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Fish Fillet",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Sweet & Sour Chicken",
+          "each":"",
+          "price":"12.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Sweet & Sour Pork",
+          "each":"",
+          "price":"12.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Egg Foo Young":[
+       {
+          "name":"House Special",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Beef",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Chicken",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"BBQ Pork",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Shrimp",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Mushroom",
+          "each":"",
+          "price":"10.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       },
+       {
+          "name":"Vegetables",
+          "each":"",
+          "price":"10.5",
+          "spicy":"",
+          "desc":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,"
+       }
+    ],
+    "Standard Dinners":[
+      {
+         "name":"Dinner For Two",
+         "each":"",
+         "price":"24.95",
+         "spicy":"",
+         "desc":["2 Wonton Soup","2 Egg Rolls", " Sweet & Sour Chicken Balls", " Beef with Mixed Vegetables", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Dinner For Three",
+         "each":"",
+         "price":"35.95",
+         "spicy":"",
+         "desc":["3 Wonton Soup", "3 Egg Rolls", " Beef with Mixed Vegetables", " Sweet & Sour Chicken Balls", " Chicken Soo Gai", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Dinner For Four",
+         "each":"",
+         "price":"44.95",
+         "spicy":"",
+         "desc":["4 Wonton Soup", "4 Egg Rolls", " Chicken Soo Gai", " Beef with Mixed Vegetables", " Sweet & Sour Chicken Balls", " Chicken Chop Suey", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Dinner For Five",
+         "each":"",
+         "price":"54.95",
+         "spicy":"",
+         "desc":["5 Wonton Soup",  "5 Egg Rolls", " Sweet & Sour Chicken Balls", " Chicken Chop Suey", " Chicken Soo Gai", " Beef with Mixed Vegetables", " Chicken Lo Mein", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Dinner For Six",
+         "each":"",
+         "price":"63.95",
+         "spicy":"",
+         "desc":["6 Wonton Soup", "6 Egg Rolls", " Sweet & Sour Chicken Balls", " Beef with Mixed Vegetables", " Chicken Chop Suey", " Chicken Soo Gai", " Sweet & Sour Shrimp", " Chicken Lo Mein", " Chicken Fried Rice & Cookies"]
+      }
+   ],
+   "Deluxe Dinners":[
+      {
+         "name":"Deluxe Dinner For Two",
+         "each":"",
+         "price":"27.95",
+         "spicy":"",
+         "desc":["2 Wonton Soup", "2 Pork Spring Rolls", " Sweet & Sour Chicken (Hong Kong Style)", " Chicken with Mixed Vegetables", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Deluxe Dinner For Three",
+         "each":"",
+         "price":"39.95",
+         "spicy":"",
+         "desc":["3 Wonton Soup", "3 Pork Spring Rolls", " Lemon Chicken", " Sweet & Sour Chicken (Hong Kong Style)", " Chicken with Mixed Vegetables", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Deluxe Dinner For Four",
+         "each":"",
+         "price":"49.95",
+         "spicy":"",
+         "desc":["4 Wonton Soup", "4 Pork Spring Rolls", " Lemon Chicken", " Chicken with Mixed Vegetables", " Beef with Black Bean Sauce", " Sweet & Sour Chicken (Hong Kong Style)", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Deluxe Dinner For Five",
+         "each":"",
+         "price":"61.95",
+         "spicy":"",
+         "desc":["5 Wonton Soup", "5 Pork Spring Rolls", " Beef with Black Bean Sauce", " Chicken with Mixed Vegetables", " Shrimp with Vegetables & Almond/Cashew", " Lemon Chicken", " Cantonese Lo Mein", " Chicken Fried Rice & Cookies"]
+      },
+      {
+         "name":"Deluxe Dinner For Six",
+         "each":"",
+         "price":"72.95",
+         "spicy":"",
+         "desc":["6 Wonton Soup", "6 Pork Spring Rolls", " Chicken with Mixed Vegetables", " Beef with Black Bean Sauce", " Shrimp with Vegetables & Almond/Cashew", " Lemon Chicken", " Cantonese Lo Mein", " Honey & Garlic Spareribs", " Chicken Fried Rice & Cookies"]
+      }
+   ],
+    "Combinations":[
+       {
+          "name":"No. 1",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Chicken Balls and Chicken Soo Gai"
+       },
+       {
+          "name":"No. 2",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Chicken Balls and Sweet & Sour Shrimp"
+       },
+       {
+          "name":"No. 3",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Chicken Balls and Lemon Chicken"
+       },
+       {
+          "name":"No. 4",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Chicken Soo Gai and Lemon Chicken"
+       },
+       {
+          "name":"No. 5",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Lemon Chicken and Sweet & Sour Shrimp"
+       },
+       {
+          "name":"No. 6",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Chicken Balls and Beef with Mixed Vegatebles"
+       },
+       {
+          "name":"No. 7",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Chicken Soo Gai and Beef with Mixed Vegetables"
+       },
+       {
+          "name":"No. 8",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Lemon Chicken and Beef with Mixed Vegetables"
+       },
+       {
+          "name":"No. 9",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Shrimp and Beef with Mixed Vegetables"
+       },
+       {
+          "name":"No. 10",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Chicken Balls and Chicken Chop Suey"
+       },
+       {
+          "name":"No. 11",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Chicken Soo Gai and Chicken Chop Suey"
+       },
+       {
+          "name":"No. 12",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Lemon Chicken and Chicken Chop Suey"
+       },
+       {
+          "name":"No. 13",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Shrimp and Chicken Chop Suey"
+       },
+       {
+          "name":"No. 14",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Chicken Balls and Beef or Chicken with Black Bean Sauce"
+       },
+       {
+          "name":"No. 15",
+          "each":"",
+          "price":"12.95",
+          "spicy":"spicy",
+          "desc":"General Tao's Chicken"
+       },
+       {
+          "name":"No. 16",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Chicken (Hong Kong Style)"
+       },
+       {
+          "name":"No. 17",
+          "each":"",
+          "price":"12.95",
+          "spicy":"",
+          "desc":"Sweet & Sour Pork (Hong Kong Style)"
+       },
+       {
+          "name":"No. 18",
+          "each":"",
+          "price":"11.95",
+          "spicy":"",
+          "desc":"Mixed Vegetables, Mushroom Fried Rice and Vegetable Spring Roll"
+       }
+    ]
+ }

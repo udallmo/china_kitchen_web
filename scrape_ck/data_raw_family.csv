@@ -1,0 +1,11 @@
+name,each,price,spicy,category,description
+Dinner For Two,,24.95,,Standard Dinners,"['2 Wonton Soup & Egg Rolls', ' Sweet & Sour Chicken Balls', ' Beef with Mixed Vegetables', ' Chicken Fried Rice & Cookies']"
+Dinner For Three,,35.95,,Standard Dinners,"['3 Wonton Soup & Egg Rolls', ' Beef with Mixed Vegetables', ' Sweet & Sour Chicken Balls', ' Chicken Soo Gai', ' Chicken Fried Rice & Cookies']"
+Dinner For Four,,44.95,,Standard Dinners,"['4 Wonton Soup & Egg Rolls', ' Chicken Soo Gai', ' Beef with Mixed Vegetables', ' Sweet & Sour Chicken Balls', ' Chicken Chop Suey', ' Chicken Fried Rice & Cookies']"
+Dinner For Five,,54.95,,Standard Dinners,"['5 Wonton Soup & Egg Rolls', ' Sweet & Sour Chicken Balls', ' Chicken Chop Suey', ' Chicken Soo Gai', ' Beef with Mixed Vegetables', ' Chicken Lo Mein', ' Chicken Fried Rice & Cookies']"
+Dinner For Six,,63.95,,Standard Dinners,"['6 Wonton Soup & Egg Rolls', ' Sweet & Sour Chicken Balls', ' Beef with Mixed Vegetables', ' Chicken Chop Suey', ' Chicken Soo Gai', ' Sweet & Sour Shrimp', ' Chicken Lo Mein', ' Chicken Fried Rice & Cookies']"
+Deluxe Dinner For Two,,27.95,,Deluxe Dinners,"['2 Wonton Soup', ' Pork Spring Rolls', ' Sweet & Sour Chicken (Hong Kong Style)', ' Chicken with Mixed Vegetables', ' Chicken Fried Rice & Cookies']"
+Deluxe Dinner For Three,,39.95,,Deluxe Dinners,"['3 Wonton Soup', ' Pork Spring Rolls', ' Lemon Chicken', ' Sweet & Sour Chicken (Hong Kong Style)', ' Chicken with Mixed Vegetables', ' Chicken Fried Rice & Cookies']"
+Deluxe Dinner For Four,,49.95,,Deluxe Dinners,"['4 Wonton Soup', ' Pork Spring Rolls', ' Lemon Chicken', ' Chicken with Mixed Vegetables', ' Beef with Black Bean Sauce', ' Sweet & Sour Chicken (Hong Kong Style)', ' Chicken Fried Rice & Cookies']"
+Deluxe Dinner For Five,,61.95,,Deluxe Dinners,"['5 Wonton Soup', ' Pork Spring Rolls', ' Beef with Black Bean Sauce', ' Chicken with Mixed Vegetables', ' Shrimp with Vegetables & Almond/Cashew', ' Lemon Chicken', ' Cantonese Lo Mein', ' Chicken Fried Rice & Cookies']"
+Deluxe Dinner For Six,,72.95,,Deluxe Dinners,"['6 Wonton Soup', ' Pork Spring Rolls', ' Chicken with Mixed Vegetables', ' Beef with Black Bean Sauce', ' Shrimp with Vegetables & Almond/Cashew', ' Lemon Chicken', ' Cantonese Lo Mein', ' Honey & Garlic Spareribs', ' Chicken Fried Rice & Cookies']"
