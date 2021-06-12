@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from 'react'
-import logo from '../assets/images/china_kitchen_logo.png'
 import {Link, useLocation} from 'react-router-dom'
 import "../App.css"
 import {FaBars} from 'react-icons/fa'
@@ -35,7 +34,7 @@ function Header() {
         closeSidebar()
     }
 
-    if (windowDim.width <= 600) {
+    if (windowDim.width <= 765) {
         return (
             <section className="header">
                 <div className="bars" onClick={() => openSidebar()}>
@@ -58,7 +57,10 @@ function Header() {
 
     return (
         <section className="header">
-            <Link to="/"><img src={logo} alt="china kitchen eatery"/></Link>
+            <div>
+            <Link to="/"><h1 className="logo">海 雅 樓</h1></Link>
+            </div>
+            
             <div className="header-list">
                 <Link to="/menu" className={`${selectedState === "menu" ? "selected" : ""}`} onClick={() => setSelectedState("menu")}>Menu</Link>
                 <Link to="/location" className={`${selectedState === "location" ? "selected" : ""}`} onClick={() => setSelectedState("location")}>Location</Link>

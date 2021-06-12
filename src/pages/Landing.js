@@ -10,6 +10,7 @@ function Landing() {
         <article className="landing">
             <div className="overlay">
                 <section className="title-container">
+                    <h1 className="title_logo">海 雅 樓</h1>
                     <h1 className="title">China Kitchen Eatery</h1>
 
                     <div className="info">

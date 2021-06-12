@@ -57,7 +57,7 @@ function Menu() {
                             <h1 className="list-header">{key}</h1>
                             <div className="list-separator"></div>
                             <div className="extra-text-wrapper">
-                                {key === "Combinations" && <p><strong>Served with: Pop or Wonton Soup, Egg Roll, Chicken Fried Rice & Cookies</strong></p>}
+                                {key === "Combinations" && <p><strong style={{'color': "black"}}>Served with: Pop or Wonton Soup, Egg Roll, Chicken Fried Rice & Cookies</strong></p>}
                                 {changes.includes(key) && <p><strong>PLEASE NOTE:  Any changes requested for the items below will be subject to an additional charge.</strong></p>}
                             </div>
                             <MenuItem item={displayList[key]}/>
